@@ -1,0 +1,16 @@
+{
+  "name": "intersect-client-rects",
+  "version": "1.0.0",
+  "description": "Find the intersection area of multiple client rects",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "Kyungwook Park",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "zuul": "^3.11.0",
+    "zuul-ngrok": "^4.0.0"
+  }
+}
