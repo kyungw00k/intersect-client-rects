@@ -1,6 +1,6 @@
 {
   "name": "intersect-client-rects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the intersection area of multiple client rects",
   "main": "index.js",
   "scripts": {
